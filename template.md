@@ -1,9 +1,9 @@
 # Process Writeup
 
-## Name: 
-## Course: 
-## Period: 
-## Concept: 
+## Name: Hanaa Hassan
+## Course: Data Structures (JS Basics)
+## Period: 2
+## Concept: Varibles and Strings
 
 ### Section
 
