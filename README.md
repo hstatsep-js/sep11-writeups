@@ -15,3 +15,5 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
   * [DOM](02-dom/dom-writeup.md)
 * Unit 3: P5js
   * [P5js](03-p5js/p5js-writeup.md)
+
+[HSTAT SEP writeup docs](https://github.com/hstatsep/other/tree/main/writeups)
